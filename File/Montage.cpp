@@ -40,6 +40,8 @@ int main() {
 	bool resultado = confirmacion(arreglo,n,m);
     cout << (resultado ? "yes" : "no") << endl; 
 	return 0;
+
+	cout<<"hola";
 	
 }
 
