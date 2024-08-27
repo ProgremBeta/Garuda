@@ -3,6 +3,4 @@ Programas de Programacion Competitiva
 
 Hemos usado el lenguaje C++ para hacer estos programas
 
-Molina
-Jorge 
-Ignacio
+Jorge  - Molina - Ignacio
