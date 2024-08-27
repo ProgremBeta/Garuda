@@ -45,8 +45,6 @@ int main() {
     bool resultado = ordenDirecto(input) || ordenInverso(input);
     cout << (resultado ? "yes" : "no") << endl; 
 
-    cout<<"Hola mundo";
-
     return 0;
 }
 
